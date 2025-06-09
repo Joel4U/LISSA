@@ -20,10 +20,3 @@ This repository contains the implementation of **LISSA (Linguistically-Informed 
 ## 📊 Results
 
 Our approach achieves state-of-the-art performance on long text extraction tasks while using significantly fewer parameters than large language models.
-
-## 🛠️ Installation
-
-```bash
-git clone https://github.com/yourusername/LISSA
-cd LISSA
-pip install -r requirements.txt
